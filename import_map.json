@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "lume/": "https://cdn.jsdelivr.net/gh/lumeland/lume@3.2.6/",
+    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.15.5/",
+    "mdit-alerts": "npm:@mdit/plugin-alert@0.22.2"
+  }
+}
